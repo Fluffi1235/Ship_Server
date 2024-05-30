@@ -1,0 +1,4 @@
+port: 44044
+connectDB: "host=localhost port=5432 user=user password=password dbname=db sslmode=disable"
+token_ttl: 1h
+timeoutTx: 5
